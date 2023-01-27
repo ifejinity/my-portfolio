@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ifejinity/my-portfolio/static/css/main.52159dc5.css",
+    "main.js": "/ifejinity/my-portfolio/static/js/main.e0d29e7b.js",
+    "static/js/787.128fc6e9.chunk.js": "/ifejinity/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo.png": "/ifejinity/my-portfolio/static/media/logo.cbcd5bf710de7f7dbc7d.png",
+    "static/media/herobg.svg": "/ifejinity/my-portfolio/static/media/herobg.dce93416fee245d35658.svg",
+    "index.html": "/ifejinity/my-portfolio/index.html",
+    "main.52159dc5.css.map": "/ifejinity/my-portfolio/static/css/main.52159dc5.css.map",
+    "main.e0d29e7b.js.map": "/ifejinity/my-portfolio/static/js/main.e0d29e7b.js.map",
+    "787.128fc6e9.chunk.js.map": "/ifejinity/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52159dc5.css",
+    "static/js/main.e0d29e7b.js"
+  ]
+}
